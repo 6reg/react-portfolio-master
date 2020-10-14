@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Greg  Mathias",
+    "occupation": "ReactJS Developer && Data Analyst @ Lionbridge",
+    "description": "Maps Search Algorithm analyst by day, aspiring software engineer nights and weekends",
+    "image": "face1.png",
+    "bio": "My name is Greg. I am an aspiring software engineer with 5+ years experience in SaaS production mgmt. ",
+    "contactmessage": "Get in touch with me.",
+    "email": "mathiasgreg.com",
+    "phone": "347-903-1495",
+    "address": {
+      "street": "66 Church St.",
+      "city": "Charleston",
+      "state": "SC",
+      "zip": "29401"
+    },
+    "website": "https://6reg.githubpages.io",
+    "resumedownload": "https://6reg.githubpages.io",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gregorymathias/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com//",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/6reg",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full stack software development including react, angular, mongodb, express, mongoose, etc.",
+    "education": [
+      {
+        "school": "Sierra Nevada College",
+        "degree": "BA Music Performance",
+        "graduated": "May 2007",
+        "description": "Magna Cum Laude Honors"
+      }
+    ],
+    "work": [
+      {
+        "company": "Lionbridge",
+        "title": "Maps Search Analyst",
+        "years": "Jan 2018 - Present",
+        "description": "Search algorithm Quality Assurance. Generate analysis and feedback data on search algo performance."
+      },
+      {
+        "company": "TalkPoint",
+        "title": "SaaS Production Manager",
+        "years": "Mar 2011 - Jun 2016",
+        "description": "Live & on-demand webcast engineer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://whatsapp-mern-b4cc6.web.app/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://tik-tok-clone-e8ef5.web.app/"
+      },
+      {
+        "title": "Twitter Clone with React and Firebase",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "",
+        "url": "https://twitter-clone-92389.web.app/"
+      },
+      {
+        "title": "Google Homepage Clone",
+        "category": "Google homepage project from The Odin Project",
+        "image": "",
+        "url": "https://homepage-clone.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": ""
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
