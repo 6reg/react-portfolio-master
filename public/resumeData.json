@@ -2,11 +2,11 @@
   "main": {
     "name": "Greg  Mathias",
     "occupation": "React Developer && Data Analyst @ Lionbridge",
-    "description": "Search Algorithm Analyst by day, aspiring Software Engineer by night (...and weekends, lunch break, etc.)",
+    "description": "Search algorithm analyst by day, software engineer by night (...and weekends, lunch breaks, etc.)",
     "image": "profilepic.jpg",
     "bio": "Aspiring software engineer with 5+ years experience in SaaS production mgmt.",
     "contactmessage": "Get in touch with me.",
-    "email": "mathiasgreg.com",
+    "email": "mathiasgreg@gmail.com",
     "phone": "347-903-1495",
     "address": {
       "street": "66 Church St.",
@@ -23,22 +23,42 @@
         "className": "fa fa-github"
       },
       {
-        "name": "linkedIn",
+        "name": "linkedin",
         "url": "https://www.linkedin.com/in/gregorymathias/",
         "className": "fa fa-linkedin"
       }
     ]
   },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://whatsapp-mern-b4cc6.web.app/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://tik-tok-clone-e8ef5.web.app/"
+      },
+      {
+        "title": "Twitter Clone with React and Firebase",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "twitter-clone.png",
+        "url": "https://twitter-clone-92389.web.app/"
+      },
+      {
+        "title": "Google Homepage Clone",
+        "category": "Google homepage project from The Odin Project",
+        "image": "google-clone.png",
+        "url": "https://homepage-clone.web.app/"
+      }
+    ]
+  },
   "resume": {
     "skillmessage": "Full stack software development including react, angular, mongodb, express, mongoose and firebase.",
-    "education": [
-      {
-        "school": "Sierra Nevada College",
-        "degree": "BA Music Performance",
-        "graduated": "May 2007",
-        "description": "Magna Cum Laude Honors (3.81gpa), with a Minor in Humanities"
-      }
-    ],
     "work": [
       {
         "company": "Lionbridge",
@@ -86,33 +106,12 @@
       }
     ]
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://whatsapp-mern-b4cc6.web.app/"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://tik-tok-clone-e8ef5.web.app/"
-      },
-      {
-        "title": "Twitter Clone with React and Firebase",
-        "category": "Twitter Clone built with ReactJS",
-        "image": "twitter-clone.png",
-        "url": "https://twitter-clone-92389.web.app/"
-      },
-      {
-        "title": "Google Homepage Clone",
-        "category": "Google homepage project from The Odin Project",
-        "image": "google-clone.png",
-        "url": "https://homepage-clone.web.app/"
-      }
-    ]
-
-  }
+  "education": [
+    {
+      "school": "Sierra Nevada College",
+      "degree": "BA Music Performance",
+      "graduated": "May 2007",
+      "description": "Magna Cum Laude Honors (3.81gpa), with a Minor in Humanities"
+    }
+  ]
 }
