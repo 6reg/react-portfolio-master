@@ -29,34 +29,6 @@
       }
     ]
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://whatsapp-mern-b4cc6.web.app/"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://tik-tok-clone-e8ef5.web.app/"
-      },
-      {
-        "title": "Twitter Clone with React and Firebase",
-        "category": "Twitter Clone built with ReactJS",
-        "image": "twitter-clone.png",
-        "url": "https://twitter-clone-92389.web.app/"
-      },
-      {
-        "title": "Google Homepage Clone",
-        "category": "Google homepage project from The Odin Project",
-        "image": "google-clone.png",
-        "url": "https://homepage-clone.web.app/"
-      }
-    ]
-  },
   "resume": {
     "skillmessage": "Full stack software development including react, angular, mongodb, express, mongoose and firebase.",
     "work": [
@@ -77,6 +49,14 @@
         "title": "SaaS Production Manager",
         "years": "Mar 2011 - Jun 2016",
         "description": "Live & on-demand webcast engineer. Acted as API between our clients and quickly evolving live video delivery product."
+      }
+    ],
+    "education": [
+      {
+        "school": "Sierra Nevada College",
+        "degree": "BA Music Performance",
+        "graduated": "May 2007",
+        "description": "Magna Cum Laude Honors (3.81gpa), with a Minor in Humanities"
       }
     ],
     "skills": [
@@ -106,12 +86,32 @@
       }
     ]
   },
-  "education": [
-    {
-      "school": "Sierra Nevada College",
-      "degree": "BA Music Performance",
-      "graduated": "May 2007",
-      "description": "Magna Cum Laude Honors (3.81gpa), with a Minor in Humanities"
-    }
-  ]
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://whatsapp-mern-b4cc6.web.app/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://tik-tok-clone-e8ef5.web.app/"
+      },
+      {
+        "title": "Twitter Clone with React and Firebase",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "twitter-clone.png",
+        "url": "https://twitter-clone-92389.web.app/"
+      },
+      {
+        "title": "Google Homepage Clone",
+        "category": "Google homepage project from The Odin Project",
+        "image": "google-clone.png",
+        "url": "https://homepage-clone.web.app/"
+      }
+    ]
+  }
 }
