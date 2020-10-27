@@ -4,7 +4,7 @@
     "occupation": "ReactJS Developer && Data Analyst @ Lionbridge",
     "description": "Maps Search Algorithm analyst by day, aspiring software engineer nights and weekends",
     "image": "face1.png",
-    "bio": "My name is Greg. I am an aspiring software engineer with 5+ years experience in SaaS production mgmt. ",
+    "bio": "My name is Greg. I am an aspiring software engineer with 5+ years experience in SaaS production mgmt. My past work reflects one constant commitment: to evolve my skill to anticipate and meet the needs of my clients in a dynamic development landscape. I strive every day to be a student of of the web and to interpret the world around me so I can determine how best to position my clients to succeed.",
     "contactmessage": "Get in touch with me.",
     "email": "mathiasgreg.com",
     "phone": "347-903-1495",
@@ -18,19 +18,9 @@
     "resumedownload": "https://6reg.githubpages.io",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/gregorymathias/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com//",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -40,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Full stack software development including react, angular, mongodb, express, mongoose, etc.",
+    "skillmessage": "Full stack software development including react, angular, mongo, express, mongoose and typescript.",
     "education": [
       {
         "school": "Sierra Nevada College",
@@ -107,27 +97,16 @@
       {
         "title": "Twitter Clone with React and Firebase",
         "category": "Twitter Clone built with ReactJS",
-        "image": "",
+        "image": "twitter-clone.png",
         "url": "https://twitter-clone-92389.web.app/"
       },
       {
         "title": "Google Homepage Clone",
         "category": "Google homepage project from The Odin Project",
-        "image": "",
+        "image": "google-clone.png",
         "url": "https://homepage-clone.web.app/"
       },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": ""
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": ""
-      }
+   
     ]
   },
   "testimonials": {
