@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Greg  Mathias",
-    "occupation": "ReactJS Developer && Data Analyst @ Lionbridge",
-    "description": "Maps Search Algorithm analyst by day, aspiring software engineer nights and weekends",
-    "image": "face1.png",
-    "bio": "My name is Greg. I am an aspiring software engineer with 5+ years experience in SaaS production mgmt. ",
+    "occupation": "React Developer && Data Analyst @ Lionbridge",
+    "description": "Search Algorithm Analyst by day, aspiring Software Engineer by night (...and weekends, lunch break, etc.)",
+    "image": "profilepic.jpg",
+    "bio": "Aspiring software engineer with 5+ years experience in SaaS production mgmt.",
     "contactmessage": "Get in touch with me.",
     "email": "mathiasgreg.com",
     "phone": "347-903-1495",
@@ -14,39 +14,29 @@
       "state": "SC",
       "zip": "29401"
     },
-    "website": "https://6reg.githubpages.io",
-    "resumedownload": "https://6reg.githubpages.io",
+    "website": "https://6reg.github.io",
+    "resumedownload": "https://6reg.github.io",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/gregorymathias/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com//",
-        "className": "fa fa-instagram"
-      },
       {
         "name": "github",
         "url": "http://github.com/6reg",
         "className": "fa fa-github"
+      },
+      {
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/gregorymathias/",
+        "className": "fa fa-linkedin"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Full stack software development including react, angular, mongodb, express, mongoose, etc.",
+    "skillmessage": "Full stack software development including react, angular, mongodb, express, mongoose and firebase.",
     "education": [
       {
         "school": "Sierra Nevada College",
         "degree": "BA Music Performance",
         "graduated": "May 2007",
-        "description": "Magna Cum Laude Honors"
+        "description": "Magna Cum Laude Honors (3.81gpa), with a Minor in Humanities"
       }
     ],
     "work": [
@@ -57,36 +47,42 @@
         "description": "Search algorithm Quality Assurance. Generate analysis and feedback data on search algo performance."
       },
       {
+        "company": "VIPKid",
+        "title": "ESL Teacher",
+        "years": "Jun 2016 - Present",
+        "description": "Teach K-12 English to Chinese students via video conference."
+      },
+      {
         "company": "TalkPoint",
         "title": "SaaS Production Manager",
         "years": "Mar 2011 - Jun 2016",
-        "description": "Live & on-demand webcast engineer."
+        "description": "Live & on-demand webcast engineer. Acted as API between our clients and quickly evolving live video delivery product."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "30%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "20%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "30%"
       },
       {
         "name": "Firebase",
-        "level": "55%"
+        "level": "50%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "10%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "10%"
       }
     ]
   },
@@ -107,39 +103,16 @@
       {
         "title": "Twitter Clone with React and Firebase",
         "category": "Twitter Clone built with ReactJS",
-        "image": "",
+        "image": "twitter-clone.png",
         "url": "https://twitter-clone-92389.web.app/"
       },
       {
         "title": "Google Homepage Clone",
         "category": "Google homepage project from The Odin Project",
-        "image": "",
+        "image": "google-clone.png",
         "url": "https://homepage-clone.web.app/"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": ""
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": ""
       }
     ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "",
-        "user": ""
-      },
-      {
-        "text": "",
-        "user": ""
-      }
-    ]
+
   }
 }
