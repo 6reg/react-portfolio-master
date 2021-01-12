@@ -111,6 +111,12 @@
         "category": "Google homepage project from The Odin Project",
         "image": "google-clone.png",
         "url": "https://homepage-clone.web.app/"
+      },
+       {
+        "title": "Rock Paper Scissors App",
+        "category": "Game built with javascript",
+        "image": "",
+        "url": "https://6reg.githubpages.io/rock-paper-scissors"
       }
     ]
   }
