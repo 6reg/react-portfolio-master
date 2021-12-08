@@ -88,13 +88,7 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://whatsapp-mern-b4cc6.web.app/"
-      },
-      {
+       {
         "title": "Twitter Clone with React and Firebase",
         "category": "Twitter Clone built with ReactJS",
         "image": "twitter-clone.png",
